@@ -1,3 +1,9 @@
+#BAD PROTOTYPE FOR THE PROJECT
+#CURRENT LOOP ERROR
+#Bad Bad
+#Prev Ver had Debbuging statements
+
+
 num1 = 0
 num2 = 0
 
