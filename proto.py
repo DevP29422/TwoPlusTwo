@@ -27,5 +27,5 @@ num2 = int(input("Enter number 2: "))
 opr = input("Enter oprator: ")
 listOpr = {'+':funAdd(num1, num2), '-':funSub(num1, num2), 
         'x':funMul(num1, num2), '/':funDiv(num1, num2)}
-return listOpr[opr]
+print(listOpr[opr])
 
